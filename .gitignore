@@ -3,3 +3,4 @@ ptty
 *.swp
 *.core
 config.h
+/.vscode
